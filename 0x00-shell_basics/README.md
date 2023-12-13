@@ -1,1 +1,1 @@
-This project is tring to print the absolute working directory
+The 1-listit will display all the content of our current directory
